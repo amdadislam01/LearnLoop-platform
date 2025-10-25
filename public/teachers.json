@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Bruno Acselrad",
+    "subject": "Web Development",
+    "position": "Full Stack Developer ",
+    "description": "Bruno teaches Web Development with hands-on projects. He specializes in HTML, CSS, JavaScript, and React.",
+    "image": "https://i.ibb.co.com/GQv3GXGz/download-84.png"
+  },
+  {
+    "id": 2,
+    "name": "Sophia Martinez",
+    "subject": "Graphic Design",
+    "position": "Graphic Design Instructor",
+    "description": "Sophia helps students master tools like Photoshop, Illustrator, and Figma to create stunning designs.",
+    "image": "https://i.ibb.co.com/Pz1fXtVC/download-85.png"
+  },
+  {
+    "id": 3,
+    "name": "Liam Johnson",
+    "subject": "Digital Marketing",
+    "position": "Digital Marketing Expert",
+    "description": "Liam teaches SEO, Social Media Marketing, and Ads strategies to help students grow online businesses.",
+    "image": "https://i.ibb.co.com/Hf9FPQ3M/download-86.png"
+  },
+  {
+    "id": 4,
+    "name": "Emma Williams",
+    "subject": "UI/UX Design",
+    "position": "UI/UX Designer & Mentor",
+    "description": "Emma guides students in creating intuitive and beautiful user interfaces using Figma, Sketch, and Adobe XD.",
+    "image": "https://i.ibb.co.com/Y79tsjtx/download-87.png"
+  }
+]

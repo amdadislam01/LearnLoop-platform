@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "MD Amdad Islam",
+    "position": "Frontend Developer",
+    "feedback": "LearnLoop helped me sharpen my frontend development skills. The projects and teachers were top-notch!",
+    "image": "https://avatars.githubusercontent.com/u/195456266?v=4"
+  },
+  {
+    "id": 2,
+    "name": "LITAN MOLLA",
+    "position": "Full Stack Developer",
+    "feedback": "Thanks to LearnLoop, I can now build full stack applications confidently. The guidance from teachers is amazing!",
+    "image": "https://avatars.githubusercontent.com/u/185999515?v=4"
+  },
+  {
+    "id": 3,
+    "name": "Zahidul Islam Mahim",
+    "position": "MERN Stack Developer",
+    "feedback": "LearnLoop's MERN stack courses are practical and engaging. I learned to build real-world apps efficiently!",
+    "image": "https://avatars.githubusercontent.com/u/92626624?v=4"
+  }
+]
