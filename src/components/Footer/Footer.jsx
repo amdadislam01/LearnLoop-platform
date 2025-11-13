@@ -142,7 +142,7 @@ const Footer = () => {
 
           <div className="text-center mt-6 text-xs text-gray-400">
             Developed with <span className="text-purple-400">♥</span> by{" "}
-            <a href="https://amdadislam-01.netlify.app/" className="underline text-purple-400 hover:text-purple-300">
+            <a href="https://amdadislam.netlify.app/" className="underline text-purple-400 hover:text-purple-300">
               MD Amdad Islam
             </a>
           </div>
