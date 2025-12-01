@@ -40,11 +40,11 @@ export const router = createBrowserRouter([
             },
             {
                 path: '/skill/:id',
-                element: <PrivetRoutes><SkillDetails /></PrivetRoutes>
+                element: <SkillDetails />
             },
             {
                 path: '/skills',
-                element: <PrivetRoutes><Skills /></PrivetRoutes>
+                element: <Skills />
             },
             {
                 path: '/about',

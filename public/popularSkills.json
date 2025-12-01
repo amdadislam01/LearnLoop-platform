@@ -9,7 +9,8 @@
     "providerEmail": "alex.martin@learnloop.com",
     "slotsAvailable": 5,
     "description": "Introductory course covering HTML, CSS, and basic JavaScript for building simple websites.",
-    "category": "Technology"
+    "category": "Technology",
+    "fullyDescription": "This course is designed for absolute beginners who want to start their journey in web development. You will begin by understanding how the web works, what a website actually is, and how browsers interpret code. The HTML module will teach you how to structure web pages using elements, tags, lists, images, links, and forms. Then you will move into CSS, where you will learn how to style websites with colors, fonts, layouts, flexbox, and responsive design techniques to ensure your website looks great on all devices. Finally, you will get an introduction to JavaScript, which will help you add interactive features such as button actions, simple animations, and dynamic text updates. By the end of the course, you will be able to build a complete, functional, multipage website from scratch. You will also receive small assignments and hands-on projects to practice your skills along the way, ensuring you gain confidence in each step."
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "providerEmail": "priya.shah@learnloop.com",
     "slotsAvailable": 4,
     "description": "Comprehensive digital marketing training: SEO, social media, email campaigns and analytics.",
-    "category": "Marketing"
+    "category": "Marketing",
+    "fullyDescription": "This Digital Marketing Masterclass is ideal for beginners and aspiring marketers who want to understand how online marketing truly works. The course begins with an introduction to modern marketing principles and how digital channels have transformed business promotion. You will dive deep into SEO (Search Engine Optimization) and learn keyword research, on-page optimization, backlink strategies, and how to rank your website on Google. The social media module covers content creation, branding tactics, Facebook & Instagram ads, and how to build a loyal online audience. Email marketing lessons will teach you how to craft effective newsletters, automate workflows, segment your audience, and improve open rates. You’ll also learn Google Analytics to measure performance, track user behavior, and make data-driven decisions. Throughout the course, you will work with real-world examples and assignments that help you understand practical strategies. By the end, you’ll be confident in planning and launching complete digital marketing campaigns."
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "providerEmail": "omar.rahman@learnloop.com",
     "slotsAvailable": 6,
     "description": "Hands-on photography basics: camera settings, composition, lighting, and post-processing tips.",
-    "category": "Arts"
+    "category": "Arts",
+    "fullyDescription": "Photography Essentials is a beginner-friendly course crafted to help you understand the core principles of capturing beautiful images. You will learn how to use your camera—whether DSLR, mirrorless, or mobile—to its fullest potential. The course starts with exposure basics: shutter speed, aperture, and ISO, and how all three work together to create well-lit photos. You’ll explore composition techniques such as rule of thirds, framing, perspective, and leading lines to make your photos more visually engaging. The lighting module teaches you how natural and artificial light affect mood, shadows, and highlights. You will practice shooting in different environments, including indoor, outdoor, and low-light settings. Post-processing lessons cover simple editing techniques using Lightroom or mobile apps to enhance colors, sharpness, and overall quality. Throughout the course, you will complete small assignments and creative challenges that help strengthen your skills. By the end, you’ll be able to confidently shoot portraits, landscapes, and lifestyle photographs with better quality and artistic vision."
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
     "providerEmail": "sara.khan@learnloop.com",
     "slotsAvailable": 3,
     "description": "Learn design principles, color theory, and basic tools like Adobe Illustrator and Canva.",
-    "category": "Design"
+    "category": "Design",
+    "fullyDescription": "This beginner-friendly graphic design course introduces you to the fundamentals of visual communication. You’ll start with the core principles of design: balance, alignment, contrast, hierarchy, and spacing, learning how each principle influences how people perceive visuals. The course then moves into color theory—understanding color psychology, color harmony, and how to create visually appealing palettes. You will also learn typography basics, including font pairing, readability, and how to choose the right fonts for different types of designs. Using Adobe Illustrator and Canva, you will practice creating logos, posters, social media graphics, and simple branding elements. Practical exercises will help you understand layout design, icon creation, and visual consistency across different media. By the end of the course, you'll have hands-on experience in creating professional quality designs even as a beginner, along with a mini-portfolio showcasing your work."
   },
   {
     "id": 5,
@@ -57,8 +61,10 @@
     "providerEmail": "john.doe@learnloop.com",
     "slotsAvailable": 8,
     "description": "Conversational English practice focusing on pronunciation, fluency, and everyday dialogues.",
-    "category": "Language"
+    "category": "Language",
+    "fullyDescription": "This Spoken English Practice course is perfect for anyone who wants to speak English confidently and naturally. The course focuses entirely on communication, not grammar memorization. You will learn how to speak fluently through interactive conversations, role-plays, and real-life situations. The pronunciation lessons help you improve clarity, accent, and sound patterns so that you can speak more naturally. You will practice everyday dialogues such as introductions, shopping, casual conversations, workplace interactions, and expressing opinions. Additionally, the course teaches you vocabulary-building techniques, sentence patterns, and how to think in English instead of translating from your native language. Listening practice will help you understand native speakers better. With continuous speaking sessions, feedback, and correction, you’ll gradually overcome hesitation and gain confidence. By the end of the course, you will be able to handle daily conversations smoothly and present yourself more confidently in social and professional environments."
   },
+
   {
     "id": 6,
     "skillName": "Yoga & Meditation",
@@ -69,8 +75,10 @@
     "providerEmail": "lina.gomez@learnloop.com",
     "slotsAvailable": 10,
     "description": "Beginner-friendly yoga and mindfulness sessions to improve flexibility and reduce stress.",
-    "category": "Wellness"
+    "category": "Wellness",
+    "fullyDescription": "This Yoga & Meditation course is designed to help beginners develop physical flexibility, mental clarity, and emotional balance. You will start with the basics of yoga, including foundational poses, breathing techniques, and proper alignment to avoid injury. Each session focuses on gentle stretches that improve posture, strengthen muscles, and increase mobility. You will also learn guided meditation practices to reduce stress, calm the mind, and enhance concentration. The mindfulness segment teaches you how to stay present, develop inner awareness, and maintain a peaceful mindset in daily life. The course includes relaxation exercises, morning energy routines, and evening cool-down sequences suitable for people of all ages. Whether you want to improve your health, reduce anxiety, or simply relax, this course provides a complete mind-body wellness experience. By the end, you’ll have a personalized yoga routine and the skills needed to practice meditation on your own."
   },
+
   {
     "id": 7,
     "skillName": "Python Programming",
@@ -81,8 +89,10 @@
     "providerEmail": "david.li@learnloop.com",
     "slotsAvailable": 4,
     "description": "Fundamentals of Python: syntax, data structures, functions, and simple real-world projects.",
-    "category": "Technology"
+    "category": "Technology",
+    "fullyDescription": "This Python Programming course is ideal for beginners who want to enter the world of software development, data analysis, or automation. You will learn the fundamentals of programming starting with Python syntax, variables, loops, and conditional statements. The course covers essential data structures such as lists, dictionaries, tuples, and sets. You will learn how functions work, how to write clean and reusable code, and how to handle errors using try-except blocks. Simple real-world projects such as calculators, data-processing scripts, and mini games will give you practical hands-on experience. You will also get an introduction to file handling, working with modules, and understanding basic algorithms. With clear examples and step-by-step lessons, you will build a strong foundation that prepares you for advanced subjects like web development, machine learning, and automation. By the end, you’ll have the confidence to build and run your own Python programs."
   },
+
   {
     "id": 8,
     "skillName": "UI/UX Design Fundamentals",
@@ -93,8 +103,10 @@
     "providerEmail": "maya.patel@learnloop.com",
     "slotsAvailable": 3,
     "description": "User-centered design process, wireframing, prototyping, and usability testing basics.",
-    "category": "Design"
+    "category": "Design",
+    "fullyDescription": "This UI/UX Design Fundamentals course provides a complete understanding of how modern digital products are designed. You will start by learning what user experience (UX) really means and how to identify user needs through research methods like surveys, interviews, and persona creation. The course then introduces information architecture, task flows, and user journey maps to help structure app and website experiences logically. In the UI section, you will learn layout principles, color psychology, typography, spacing, contrast, and visual hierarchy. You’ll practice creating wireframes and transforming them into high-quality prototypes using tools like Figma. Usability testing lessons will teach you how to identify real user problems, gather feedback, and improve your designs through iterations. The course is highly practical, with assignments where you redesign apps, create landing pages, and solve UX challenges. By the end, you will be able to design clean, user-friendly interfaces with confidence."
   },
+
   {
     "id": 9,
     "skillName": "Excel for Beginners",
@@ -105,8 +117,10 @@
     "providerEmail": "rashed.alam@learnloop.com",
     "slotsAvailable": 7,
     "description": "Core Excel skills: formulas, functions, tables, and simple data visualization for productivity.",
-    "category": "Productivity"
+    "category": "Productivity",
+    "fullyDescription": "Excel for Beginners is an essential course for anyone who wants to improve productivity, whether for office work, freelancing, business management, or academics. You will begin with basic spreadsheet navigation, cell formatting, and organizing data. The course introduces important formulas such as SUM, AVERAGE, MAX, MIN, and COUNT, helping you perform calculations efficiently. You’ll also learn essential functions like IF, VLOOKUP, CONCATENATE, and TEXT functions for real-world tasks. The tables and data-management section teaches you how to sort, filter, and clean datasets quickly. Additionally, you will learn how to create simple charts and graphs that visually represent information clearly. Practical exercises include budgeting sheets, attendance trackers, sales dashboards, and productivity templates. By the end of the course, you will confidently handle spreadsheets, solve common data problems, and use Excel as a powerful productivity tool."
   },
+
   {
     "id": 10,
     "skillName": "Public Speaking Skills",
@@ -117,8 +131,10 @@
     "providerEmail": "emily.carter@learnloop.com",
     "slotsAvailable": 5,
     "description": "Techniques for confident public speaking: structuring talks, voice control, and stage presence.",
-    "category": "Communication"
+    "category": "Communication",
+    "fullyDescription": "Public Speaking Skills is a practical course designed to help you speak confidently in front of any audience. The course begins by teaching you how to structure your speech with a clear introduction, engaging body, and memorable conclusion. You will learn voice control techniques such as pacing, tone variation, pauses, and clarity to keep listeners engaged. The course also focuses on body language—eye contact, posture, hand gestures, and movement—to make you appear more confident and natural on stage. You will practice delivering short speeches, storytelling, and persuasive speaking activities. The fear-reduction module helps you overcome nervousness through breathing techniques and mindset training. Real-world examples and feedback sessions will help you understand your strengths and areas for improvement. Whether you want to speak better in interviews, presentations, or social events, this course gives you the skills needed to communicate with impact."
   },
+
   {
     "id": 11,
     "skillName": "Financial Literacy Basics",
@@ -129,8 +145,10 @@
     "providerEmail": "tanvir.hossain@learnloop.com",
     "slotsAvailable": 6,
     "description": "Understand budgeting, saving, basic investing, and personal finance fundamentals.",
-    "category": "Finance"
+    "category": "Finance",
+    "fullyDescription": "Financial Literacy Basics is designed to help you understand money management in a simple and practical way. The course begins with budgeting techniques that show you how to track expenses, plan monthly spending, and avoid unnecessary costs. You will learn different saving strategies, emergency funds, and how to set financial goals effectively. The investing module introduces the basics of stocks, mutual funds, index funds, and compound interest. You’ll also discover how inflation, taxes, and risk affect your financial decisions. Banking essentials, such as loans, credit cards, and interest rates, are explained in easy-to-understand terms. Real-life examples and decision-making exercises help you apply the concepts immediately. By the end, you will have a clear understanding of how to build long-term financial stability, make smart choices with money, and avoid common financial mistakes."
   },
+
   {
     "id": 12,
     "skillName": "Video Editing with Premiere Pro",
@@ -141,6 +159,7 @@
     "providerEmail": "chloe.brown@learnloop.com",
     "slotsAvailable": 3,
     "description": "Step-by-step Premiere Pro workflow: cutting, transitions, color grading and export settings.",
-    "category": "Media"
+    "category": "Media",
+    "fullyDescription": "This Video Editing with Premiere Pro course teaches you how to turn raw footage into polished, professional-quality videos. You will start by understanding the Premiere Pro interface, timeline navigation, and essential tools for cutting, trimming, and organizing clips. The course will guide you through adding transitions, audio adjustments, background music, and voice enhancements to create smooth and engaging videos. You will learn how to apply color correction and color grading to enhance mood and atmosphere. The effects module introduces slow motion, speed ramping, keyframing, and simple motion graphics. Additionally, you will understand different export settings for YouTube, social media, and client delivery. Practical assignments include creating short edits, cinematic sequences, and social media reels. By the end of the course, you will have full confidence in editing videos professionally for content creation, marketing, or freelancing."
   }
 ]

@@ -7,7 +7,7 @@ import Loading from "../../components/Loading/Loading";
 import { AuthContext } from "../../context/AuthContext";
 
 const SkillDetails = () => {
-  const {loading} = useContext(AuthContext)
+  const { loading } = useContext(AuthContext);
   const { id } = useParams();
   const [skill, setSkill] = useState(null);
   const [name, setName] = useState("");
@@ -60,7 +60,7 @@ const SkillDetails = () => {
       <Link to="/" className="text-purple-600 underline mb-6 inline-block">
         &larr; Back to Home
       </Link>
-      
+
       <motion.div
         className="bg-white shadow-xl rounded-2xl overflow-hidden grid grid-cols-1 md:grid-cols-2"
         initial={{ y: 50, opacity: 0 }}
@@ -107,12 +107,31 @@ const SkillDetails = () => {
           </div>
 
           <div className="flex items-center justify-between pt-4">
-            <p className="text-2xl font-bold text-purple-700">Price ${skill.price}</p>
+            <p className="text-2xl font-bold text-purple-700">
+              Price ${skill.price}
+            </p>
             <button className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded-lg font-semibold transition-all duration-300">
               Buy Now
             </button>
           </div>
         </div>
+      </motion.div>
+
+      {/*  Description Box */}
+      <motion.div
+        className="bg-white shadow-lg rounded-2xl p-6 md:p-8"
+        initial={{ y: 50, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ duration: 0.5, delay: 0.15 }}
+      >
+        <h2 className="text-2xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+          <FaTag className="text-purple-600" />
+          Description
+        </h2>
+
+        <p className="text-gray-700 leading-relaxed text-lg whitespace-pre-line">
+          {skill.fullyDescription || "No extended description available."}
+        </p>
       </motion.div>
 
       {/* Booking  */}
@@ -122,9 +141,7 @@ const SkillDetails = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
-        <h2 className="text-2xl font-bold text-gray-800 mb-4">
-          Book Session
-        </h2>
+        <h2 className="text-2xl font-bold text-gray-800 mb-4">Book Session</h2>
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
             <label className="block text-gray-700 font-medium mb-1">Name</label>
@@ -139,12 +156,14 @@ const SkillDetails = () => {
           </div>
 
           <div>
-            <label className="block text-gray-700 font-medium mb-1">Email</label>
+            <label className="block text-gray-700 font-medium mb-1">
+              Email
+            </label>
             <input
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="Enter Your Password"
+              placeholder="Enter Your Email"
               required
               className="w-full border border-gray-300 rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-purple-600"
             />
